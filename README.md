@@ -1,7 +1,7 @@
 # imagebuild
 创建以下镜像代理，使用阿里云仓库拉取到国内
 
- quay.io/ceph/ceph:v16.2.9
+ quay.io/ceph/ceph:v16.2.9  
 registry.cn-hangzhou.aliyuncs.com/suningxiao/ceph:v16.2.9
 
  quay.io/cephcsi/cephcsi:v3.6.2
